@@ -1,0 +1,5 @@
+print("08/10/25")
+print("Bem")
+print("Quero ser um Programador Senior")
+print("Oiii, Diga que ama a Sua GIGI<3")
+print("💋")
