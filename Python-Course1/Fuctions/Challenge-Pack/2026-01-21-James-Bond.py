@@ -25,6 +25,7 @@ Hendricks, Richard Hendricks
 Nota: essa função não tem return."""
 
 
-
+def greetings(first_name, last_name):
+    print(f"{last_name}, {first_name} {last_name}")
 
 greetings('James', 'Bond')

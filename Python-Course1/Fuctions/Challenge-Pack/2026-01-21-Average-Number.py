@@ -11,10 +11,7 @@ A média de num1 e num2 é:
 
 Nota: Não use o módulo math.'''
 
-num1= 20
-num2 = 4
-
 def average(num1, num2):
     return (num1 + num2) / 2
 
-print({average})
+print(average(20, 4))
