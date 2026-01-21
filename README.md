@@ -31,8 +31,6 @@ Bora codar 🚀
 # Primeiro Projeto
 **Pedra, Papel e Tesoura**
 
-# Rock Paper Scissors Lizard Spock — Python CLI
-
 Mini projeto em Python baseado no jogo **Rock, Paper, Scissors, Lizard, Spock**.
 Feito para praticar lógica de programação, estruturas de dados e organização de código.
 
