@@ -29,9 +29,9 @@ depois melhora.
 Bora codar 🚀
 
 # Primeiro Projeto
-**Pedra, Papel e Tesoura**
+**Pedra, Papel, Tesoura, Lagarto e Spock**
 
-Mini projeto em Python baseado no jogo **Rock, Paper, Scissors, Lizard, Spock**.
+Mini projeto em Python baseado no jogo **Pedra, Papel, Tesoura, Lagarto e Spock**.
 Feito para praticar lógica de programação, estruturas de dados e organização de código.
 
 ---
