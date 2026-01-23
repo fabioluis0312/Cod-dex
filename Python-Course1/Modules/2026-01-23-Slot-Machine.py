@@ -1,4 +1,4 @@
-'''🧩 O que o exercício pede, passo a passo
+"""🧩 O que o exercício pede, passo a passo
 1️⃣ Criar o arquivo
 slot_machine.py
 
@@ -61,32 +61,30 @@ Aqui está o desafio lógico do exercício.
 
 Pergunta-chave:
 
-“Como verificar se os três itens da lista são iguais a 7️⃣?”'''
+“Como verificar se os três itens da lista são iguais a 7️⃣?”"""
 
 import random
 
-symbols = ['🍒', '🍇', '🍉',  '7️⃣']
-results =  random.choices(symbols, k=3)
+symbols = ["🍒", "🍇", "🍉", "7️⃣"]
+results = random.choices(symbols, k=3)
 
-print(' | '.join(results))
+print(" | ".join(results))
 
-if results[0] == '7️⃣' and results[1] == '7️⃣' and results[2] == '7️⃣':
+if results[0] == "7️⃣" and results[1] == "7️⃣" and results[2] == "7️⃣":
     print("Jackpot! 💰")
 else:
     print("Thanks for playing!")
 
 e = input("Voce deseja Continuar?\nY para Sim ou N para Nao\n")
 
-while e == 'Y':
-    results =  random.choices(symbols, k=3)
+while e == "Y":
+    results = random.choices(symbols, k=3)
 
-    print(' | '.join(results))
+    print(" | ".join(results))
 
-    if results[0] == '7️⃣' and results[1] == '7️⃣' and results[2] == '7️⃣':
+    if results[0] == "7️⃣" and results[1] == "7️⃣" and results[2] == "7️⃣":
         print("Jackpot! 💰")
         break
     else:
         print("Thanks for playing!")
         e = input("Voce deseja Continuar?\nY para Sim ou N para Nao\n")
-    
-
