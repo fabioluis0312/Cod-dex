@@ -56,5 +56,54 @@ Feito para praticar lógica de programação, estruturas de dados e organizaçã
 git clone https://github.com/fabioluis0312/Cod-dex
 cd Python-Course1
 cd ProjectOne
+```
+
+# Segundo Projeto
+
+**Jogo da Velha contra o “ChatGPT”**
+
+Mini projeto em Python baseado no clássico Jogo da Velha.
+Esse projeto foi feito para praticar:
+
+lógica de programação
+funções
+listas
+
+## ⚠️ não utiliza a API real do ChatGPT
+é apenas uma simulação de IA, feita com código em Python
+(sem internet e sem custo).
+
+O nome é só para deixar o jogo mais divertido e chamativo 😅
+
+## 🎮 Como funciona
+
+O tabuleiro é mostrado no terminal
+O jogador escolhe posições como:
+
+A1, B2, C3
+
+O jogo:
+não permite jogar em casa ocupada
+detecta vitória
+detecta empate
+
+modo “ChatGPT”:
+
+o computador escolhe jogadas automaticamente
+o programa mostra:
+
+ChatGPT escolheu: B2
+
+## 🧰 Tecnologias
+
+Python 3
+Módulo random
+
+## ▶️ Como executar
+```bash
+cd Python-Course1
+cd O-Grandioso-Projeto
+rode com CodeRunner
+
 
 
