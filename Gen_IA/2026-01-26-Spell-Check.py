@@ -1,6 +1,6 @@
 from textblob import TextBlob
 
-text = 'Oi Tudo bem? boa tarde.'
+text = 'I love progamming and machine learnig.'
 
 blob = TextBlob(text)
 

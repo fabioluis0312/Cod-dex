@@ -1,6 +1,6 @@
 from translate import Translator
 
-translator = Translator(to_lang='pt-BR')  # Spanish
+translator = Translator(to_lang='pt-BR')  # Portuguese
 
 # Text to be translated
 text = 'Hello, how are you?'
